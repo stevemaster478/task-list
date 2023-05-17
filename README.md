@@ -20,7 +20,7 @@ This is a simple Todo List application built using React. It allows you to manag
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/todo-list.git`
+1. Clone the repository: `git clone https://https://github.com/stevemaster478/task-list`
 2. Navigate to the project directory: `cd todo-list`
 3. Install dependencies: `pnpm install`
 4. Start the development server: `pnpm start`
