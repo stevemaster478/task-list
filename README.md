@@ -29,7 +29,7 @@ This is a simple Todo List application built using React. It allows you to manag
 
 ## Author
 
-Niuf
+[Niuf](@stevemaster478)
 
 ## License
 
