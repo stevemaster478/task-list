@@ -1,7 +1,7 @@
 # Todo List
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-17.0.2-blue?logo=react" alt="React">
+  <img src="https://img.shields.io/badge/React-18.2.0-blue?logo=react" alt="React">
   <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript" alt="JavaScript">
   <img src="https://img.shields.io/badge/HTML-5-orange?logo=html5" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-3-blue?logo=css3" alt="CSS">
